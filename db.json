@@ -1,7 +1,9 @@
 {
-  "id": 1,
-  "nome": "Escola de Rock",
-  "genero": "Comedia",
-  "anoProducao": 2004,
-  "nacional": false
+  "filme":{
+    "id": 1,
+    "nome": "Escola de Rock",
+    "genero": "Comedia",
+    "anoProducao": 2004,
+    "nacional": false
+  }
 }
