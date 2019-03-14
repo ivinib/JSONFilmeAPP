@@ -1,7 +1,7 @@
 {
-   "id": 1,
-   "nome": "Escola de Rock",
-   "genero": "Comédia",
-   "anoProducao": 2004,
-   "nacional": false
+  "id": 1,
+  "nome": "Escola de Rock",
+  "genero": "Comédia",
+  "anoProducao": 2004,
+  "nacional": false
 }
